@@ -1,0 +1,637 @@
+10
+
+dir
+50
+http://47.93.33.122/repos/minidata/trunk/code/soccerProject/dat
+http://47.93.33.122/repos/minidata
+
+
+
+2018-09-09T14:16:30.228803Z
+50
+qinsq
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2ddede93-328e-42d1-9d70-b568b2d77070
+
+zw_bbs.csv
+file
+0
+
+
+add
+
+pooltrd_n150.csv
+file
+0
+
+
+add
+
+mvar_bt020k.csv
+file
+0
+
+
+add
+
+log_v010.csv
+file
+0
+
+
+add
+
+zw_bbs20_xkey.csv
+file
+0
+
+
+add
+
+zw_usr2017m1k.dat
+file
+0
+
+
+add
+
+js101.htm
+file
+0
+
+
+add
+
+iris_xtrain.csv
+file
+0
+
+
+add
+
+tk01_m15.csv
+file
+0
+
+
+add
+
+appl2014.csv
+file
+0
+
+
+add
+
+ccpp_dtree.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+iris.csv
+file
+0
+
+
+add
+
+240228_oz.htm
+file
+0
+
+
+add
+
+poolRet_k15n150.csv
+file
+0
+
+
+add
+
+ccpp_ytrain.csv
+file
+0
+
+
+add
+
+day01.csv
+file
+0
+
+
+add
+
+poolRet_k15n1000.csv
+file
+0
+
+
+add
+
+tk01sr.csv
+file
+0
+
+
+add
+
+240228_oz.dat
+file
+0
+
+
+add
+
+log_v020.csv
+file
+0
+
+
+add
+
+ccpp_mlp.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+iris2.csv
+file
+0
+
+
+add
+
+poolTrd_2017-02-22.csv
+file
+0
+
+
+add
+
+iris_ytrain.csv
+file
+0
+
+
+add
+
+df9_pred.csv
+file
+0
+
+
+add
+
+log_poolTrd_2017-02-22.csv
+file
+0
+
+
+add
+
+xd_2016.dat
+file
+0
+
+
+add
+
+poolRet_n3k11.csv
+file
+0
+
+
+add
+
+tk01_m60.csv
+file
+0
+
+
+add
+
+poolRet_n3k12.csv
+file
+0
+
+
+add
+
+ccpp_forest.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ccpp_bayes.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+zw_bbs30k.csv
+file
+0
+
+
+add
+
+sta01ext.csv
+file
+0
+
+
+add
+
+500_2017-01-16.htm
+file
+0
+
+
+add
+
+tk01_m1.csv
+file
+0
+
+
+add
+
+tk01_m5.csv
+file
+0
+
+
+add
+
+ccpp_log.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ccpp_mlpreg.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+sta01.csv
+file
+0
+
+
+add
+
+629388_oz.htm
+file
+0
+
+
+add
+
+zw_bbs30_xkey.csv
+file
+0
+
+
+add
+
+js001.htm
+file
+0
+
+
+add
+
+579991_oz.htm
+file
+0
+
+
+add
+
+iris_9.csv
+file
+0
+
+
+add
+
+cormap.dat
+file
+0
+
+
+add
+
+tk01_m30.csv
+file
+0
+
+
+add
+
+500_2010-01-02.htm
+file
+0
+
+
+add
+
+pooltrd_n1000.csv
+file
+0
+
+
+add
+
+500_2010-01-02_utf8.htm
+file
+0
+
+
+add
+
+500_2017-01-20.htm
+file
+0
+
+
+add
+
+500_2017-01-21.htm
+file
+0
+
+
+add
+
+629388_oz.dat
+file
+0
+
+
+add
+
+adv.csv
+file
+0
+
+
+add
+
+500_2017-01-23.htm
+file
+0
+
+
+add
+
+log_sta310.csv
+file
+0
+
+
+add
+
+500_2017-01-25.htm
+file
+0
+
+
+add
+
+zw_usr2017m1.dat
+file
+0
+
+
+add
+
+tk01.csv
+file
+0
+
+
+add
+
+627925_oz.htm
+file
+0
+
+
+add
+
+ccpp.csv
+file
+0
+
+
+add
+
+gid50.dat
+file
+0
+
+
+add
+
+ccpp_knn.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pima.csv
+file
+0
+
+
+add
+
+ccpp_line.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+stk_code00.csv
+file
+0
+
+
+add
+
+poolRet_2017-02-22.csv
+file
+0
+
+
+add
+
+iris_xtest.csv
+file
+0
+
+
+add
+
+log_poolRet_2017-02-22.csv
+file
+0
+
+
+add
+
+iris_ytest.csv
+file
+0
+
+
+add
+
+zw_bbs20k.csv
+file
+0
+
+
+add
+
+ccpp_svm.pkl
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ccpp_xtrain.csv
+file
+0
+
+
+add
+
+ccpp_xtest.csv
+file
+0
+
+
+add
+
+ccpp_ytest.csv
+file
+0
+
+
+add
+
+mvar_log_bt030.csv
+file
+0
+
+
+add
+
+gid20.dat
+file
+0
+
+
+add
+
+500_2010-01-02_gbk.htm
+file
+0
+
+
+add
+
